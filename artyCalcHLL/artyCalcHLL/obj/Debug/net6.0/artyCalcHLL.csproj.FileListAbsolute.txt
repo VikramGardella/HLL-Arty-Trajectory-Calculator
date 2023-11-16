@@ -1,0 +1,15 @@
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/bin/Debug/net6.0/artyCalcHLL
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/bin/Debug/net6.0/artyCalcHLL.deps.json
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/bin/Debug/net6.0/artyCalcHLL.runtimeconfig.json
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/bin/Debug/net6.0/artyCalcHLL.dll
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/bin/Debug/net6.0/artyCalcHLL.pdb
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.csproj.AssemblyReference.cache
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.AssemblyInfoInputs.cache
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.AssemblyInfo.cs
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.csproj.CoreCompileInputs.cache
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.dll
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/refint/artyCalcHLL.dll
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.pdb
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/artyCalcHLL.genruntimeconfig.cache
+/Users/vik/Projects/artyCalcHLL/artyCalcHLL/obj/Debug/net6.0/ref/artyCalcHLL.dll
